@@ -14,3 +14,4 @@ export(verify_subgaussian)
 importFrom(MASS,mvrnorm)          # multivariate normal generator
 importFrom(matrixStats,colVars)   # column-wise variances
 importFrom(stats, cov)
+

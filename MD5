@@ -1,6 +1,6 @@
-d9dc9ff470fe7bced4493f210a15f021 *DESCRIPTION
+c36b58c8cf87e1a86955a339b9effec9 *DESCRIPTION
 5f57b4180211e9606a1e020980647475 *LICENSE
-3e1b67dcd07ac3e1b6304a26ebf05bf9 *NAMESPACE
+26263d1b54caa26b45ffb3473a3c91fd *NAMESPACE
 a5dd75f6925c2194d257d9150b07ce6c *R/estimate_gul_loadings.R
 edbb5697edf44037d87e5b3487f785b2 *R/g_fun.R
 4ae33a4625f3ae7c81953b7381b319bb *R/g_theorem.R
@@ -9,11 +9,18 @@ c767d5a295ac3e31b2023f28f7b7395a *R/gul_simulation.R
 43f0af43cb4b9ccdd4a4dc4f962378c0 *R/loading_metrics.R
 62a4b714aeb1f3c7c509165c8fd48e59 *R/verify_mean.R
 de6bd3d4bf529275b8bb9dabfa6415f8 *R/verify_subgaussian.R
+fad4a59b653b905c4c457f6e3d515c4b *R/wholesale.R
+659c9a78720d7831e591272cf55fe15f *data/Wine.rda
+48d3447213cbf8bbab5e28c346b7e9f6 *data/ionosphere.rda
+266fc16ddcefe35d429c7681c2f08eb2 *data/wholesale.rda
+33b0c23bde1b6987d5cde2ce064d4ccc *man/Wine.Rd
 5d1b8884f3ccd627fa76ba0a175d7bca *man/estimate_gul_loadings.Rd
 3e8426616c0f444c86cdfcd6b5d7191a *man/g_fun.Rd
 b3dda489334d304145fa7faab0e66b02 *man/g_theorem.Rd
 07ae67fa9b7b6a2071d0083d01db21a9 *man/generate_gfm_data.Rd
 8e165d58a22d68e07a99523a7de76f93 *man/gul_simulation.Rd
+74427a1d228e1ab9168a1e0aebb98002 *man/ionosphere.Rd
 b03244741c4288ec4c7abad105de947e *man/loading_metrics.Rd
 399ddaaf02eb04fd15b6fa1588b32fe5 *man/verify_mean.Rd
 743b5c8df0293109ce355a6e1a3f3f4e *man/verify_subgaussian.Rd
+6708b4cc9720123391b17d3f9c283826 *man/wholesale.Rd
