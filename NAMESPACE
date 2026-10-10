@@ -9,6 +9,7 @@ export(gul_simulation)
 export(loading_metrics)
 export(verify_mean)
 export(verify_subgaussian)
+export(gul_factor_number)
 
 # Import explicitly-used external symbols
 importFrom(MASS,mvrnorm)          # multivariate normal generator
